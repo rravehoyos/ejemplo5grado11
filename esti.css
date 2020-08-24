@@ -1,0 +1,20 @@
+.et{ 
+	padding-top: 25px;
+	text-align: center;
+	font-size: 50px;
+	color:#F7FE2E;
+
+
+}
+
+.hola{
+	left: 350px;
+	top: 300px;
+	position: absolute;
+	width: 500px;
+	background:#58FA82;
+	height: 200px;
+
+
+
+}
